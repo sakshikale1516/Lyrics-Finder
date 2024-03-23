@@ -1,6 +1,4 @@
-To create a README file for your project to post on GitHub, you can follow these guidelines:
 
----
 
 # Music Service
 
