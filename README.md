@@ -1,5 +1,4 @@
 
-
 # Music Service
 
 A web application that allows users to search for song lyrics by artist name or song lyrics.
@@ -46,5 +45,5 @@ Music Service is a simple web application built using HTML, CSS, and JavaScript.
 ## Display
 ![page1](https://github.com/sakshikale1516/Lyrics-Finder/assets/90844300/23b9f735-982f-4627-b24f-30ea14eb1144)
 ![page2](https://github.com/sakshikale1516/Lyrics-Finder/assets/90844300/2344df4c-bbb0-4361-ad33-c8a2f245a9a2)
-
+![page3](https://github.com/sakshikale1516/Lyrics-Finder/assets/90844300/b2b75060-0172-4b1d-982a-6dbaa46bc274)
 
